@@ -128,7 +128,7 @@ ask_me_about:
 
 **Core Concepts**
 
-`OOP` `DSA` `REST APIs` `MVC` `Software Architecture` `Agile / SDLC` `Database Design`
+`OOPS` `DSA` `REST APIs` `MVC` `Software Architecture` `Agile / SDLC` `Database Design` `System  Design`
 
 </div>
 
