@@ -1,56 +1,125 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jay Gajjar 🤓
-======================================================================================================================================
+# 👋 Hey, I'm Jay Gajjar
 
-Java Backend Developer | Software Developer
--------------------------------------------
-
-Previously, I worked with C# and .NET, where I contributed to complete backend systems and worked on projects such as Alpha CRM in a Company. This experience of 7 months helped me build a strong foundation in backend development, APIs, databases, and software architecture with Agile and SDLC.
-
-Currently, I’m focusing on Java and Spring Boot, while improving my skills in backend development, system design, software architecture, PostgreSQL, REST APIs, OOP, and DSA.
-
-🚀 My goal is to build scalable, reliable, and maintainable software solutions while continuously growing as a Backend & Software Engineer.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [jaygajjar240605@gmail.com](mailto:jaygajjar240605@gmail.com)
-* 🧠  I'm currently learning New AI Tools and Deep Dive into Spring AI and Spring Frameworks
-* 👥  I'm looking to collaborate on Java Projects especially Backend Projects
-
-<a href="https://www.github.com/jaygajjar52" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jaygajjar52?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
-### Badges
-
-<a href="https://github.com/jaygajjar52" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygajjar52&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### ☕ Java Backend Developer | 💻 Software Developer | 🏗️ Backend & Software Architecture
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jaygajjar52&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Socials
+---
+
+## 🚀 About Me
+
+I'm a **Java Backend & Software Developer from India** with hands-on experience building **backend systems, APIs, databases, and software architectures**.
+
+Previously, I worked with **C# and .NET** in a company, contributing to complete **backend systems** and projects such as **Alpha CRM**. This **7-month experience** gave me a strong foundation in **backend development, APIs, databases, software architecture, Agile, and SDLC**.
+
+Currently, I'm focusing on **Java & Spring Boot**, while continuously improving my skills in **Backend Development, System Design, Software Architecture, PostgreSQL, REST APIs, OOP, and DSA**.
+
+> 🚀 **Build it. Break it. Learn it. Improve it.**
+
+My goal is to build **scalable, reliable, secure, and maintainable software solutions** while growing as a **Backend & Software Engineer**.
+
+---
+
+## 🧠 What I'm Currently Working On
+
+* ☕ Deep diving into **Java & Spring Boot**
+* 🏗️ Learning **System Design & Software Architecture**
+* 🔌 Building **RESTful APIs & Backend Systems**
+* 🗄️ Working with **PostgreSQL & Database Design**
+* 🤖 Exploring **AI Tools & Spring AI**
+* 🧩 Improving **DSA & Problem Solving**
+* 🔐 Exploring **Security, Authentication & Authorization**
+* 🐳 Learning more about **Docker & Cloud Technologies**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+
+`Java` `Spring Boot` `C#` `.NET` `Node.js` `Express.js` `REST APIs`
+
+### 🗄️ Databases
+
+`PostgreSQL` `MySQL` `MongoDB` `Firebase` `Supabase`
+
+### 🌐 Frontend
+
+`React` `Next.js` `Angular` `JavaScript` `HTML` `CSS` `Bootstrap` `Material UI`
+
+### ☁️ Cloud & DevOps
+
+`AWS` `Azure` `Docker` `Linux` `Git` `GitHub`
+
+### 🧩 Core Concepts
+
+`OOP` `DSA` `System Design` `Software Architecture` `Agile` `SDLC` `Clean Code`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaygajjar52&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygajjar52&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaygajjar52&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Problem Solving
 
 <p align="left">
 
-<a href="https://github.com/jaygajjar52" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </picture>
+<a href="https://leetcode.com/u/Jereces/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Jereces-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/jay-gajjar-2582702a4" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </picture>
+<a href="https://www.hackerrank.com/profile/jaygajjar240605" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-jaygajjar240605-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/Jereces/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" height="32" alt="LeetCode" title="LeetCode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/jaygajjar52" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-jaygajjar52-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/jaygajjar240605" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="32" height="32" alt="HackerRank" title="HackerRank" />
+<a href="https://www.linkedin.com/in/jay-gajjar-2582702a4" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jay%20Gajjar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:jaygajjar240605@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💬 Ask Me About
+
+**Java • Spring Boot • C# • .NET • Backend Development • REST APIs • PostgreSQL • SQL • Software Architecture • System Design • OOP • DSA • Agile • SDLC**
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+  <br>
+  <sub>Let's build something awesome together 🚀</sub>
 </p>
