@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=210&section=header&text=Jay%20Gajjar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Turning+coffee+%E2%98%95+into+clean+code;Currently+shipping+Red+Pulse+%F0%9F%A9%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Designing+%7C+Building+%7C+Shipping;Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Clean+Code+%7C+DSA+%7C+Problem+Solving;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+
 
 <br/>
 
