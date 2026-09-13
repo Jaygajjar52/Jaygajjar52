@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=Jay%20Gajjar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=210&section=header&text=Jay%20Gajjar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Turning+coffee+%E2%98%95+into+clean+code;Currently+shipping+Red+Pulse+%F0%9F%A9%B8" alt="Typing SVG" />
@@ -16,83 +16,96 @@
 
 <br/>
 
+<div align="center">
+
 ## 🧑‍💻 About Me
 
-```yaml
-name: Jay Gajjar
-role: Java Backend Developer & Software Developer
-based_in: India
-focus:
-  - Backend Systems & Software Architecture
-  - REST API Design & Development
-  - Spring Boot Ecosystem
-  - Database Design (SQL / PostgreSQL)
-  - Object-Oriented Programming (OOP)
-  - Data Structures & Algorithms (DSA)
-currently_building: "Red Pulse — a Blood Donation System"
-looking_to_collaborate_on: "Java Backend Projects"
-ask_me_about:
-  - Java, Spring, Spring Boot
-  - C#, .NET
-  - Backend Systems & Software Architecture
-  - Agile Development, SDLC
-  - REST APIs, PostgreSQL, SQL
-  - OOP, DSA
-```
+</div>
 
-<br/>
-
-## ⚡ Quick Facts
-
-<table>
+<table align="center">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🔭 **Currently working on**
-`Red Pulse — A Blood Donation System`
+**🪪 Profile**
 
-</td>
-<td>
-
-👯 **Looking to collaborate on**
-`Java Backend Projects`
-
-</td>
-</tr>
-<tr>
-<td>
-
-💬 **Ask me about**
-`Java · Spring Boot · REST APIs · SQL`
+| | |
+|---|---|
+| **Name** | Jay Gajjar |
+| **Role** | Java Backend Developer & Software Developer |
+| **Based in** | India |
+| **Building** | 🩸 Red Pulse — Blood Donation System |
+| **Collaborate on** | Java Backend Projects |
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-📫 **Reach me at**
-`jaygajjar240605@gmail.com`
+**🎯 Focus Areas**
+
+- Backend Systems & Software Architecture
+- REST API Design & Development
+- Spring Boot Ecosystem
+- Database Design (SQL / PostgreSQL)
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+**💬 Ask me about**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-black?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-black?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20SDLC-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
 <br/>
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
 <a href="https://linkedin.com/in/jay-gajjar-2582702a4" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="60" height="60" alt="LinkedIn"/>
+<br/><b>LinkedIn</b>
 </a>
-<a href="mailto:jaygajjar240605@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.hackerrank.com/jaygajjar240605" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+</td>
+<td align="center" width="150">
 <a href="https://www.leetcode.com/jereces" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" height="60" alt="LeetCode"/>
+<br/><b>LeetCode</b>
 </a>
-</p>
+</td>
+<td align="center" width="150">
+<a href="https://www.hackerrank.com/jaygajjar240605" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60" height="60" alt="HackerRank"/>
+<br/><b>HackerRank</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="mailto:jaygajjar240605@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" height="60" alt="Gmail"/>
+<br/><b>Gmail</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -100,56 +113,129 @@ ask_me_about:
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,dart,html,css&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><b>Java</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br/><b>C#</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><b>JavaScript</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><b>TypeScript</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br/><b>Dart</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><b>HTML5</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><b>CSS3</b></td>
+</tr>
+</table>
 
-**Backend**
+### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><b>Spring</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br/><b>.NET</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><b>Node.js</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><b>Express</b></td>
+</tr>
+</table>
 
-**Frontend**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,tailwind,bootstrap&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><b>React</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br/><b>Vue</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=angular" width="48"/><br/><b>Angular</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/><b>Flutter</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><b>Tailwind</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><b>Bootstrap</b></td>
+</tr>
+</table>
 
-**Databases**
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="Microsoft SQL Server"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><b>PostgreSQL</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>MySQL</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><b>MongoDB</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><b>Firebase</b></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/><br/><b>Oracle</b></td>
+<td align="center" width="110"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48"/><br/><b>SQL Server</b></td>
+</tr>
+</table>
 
-**Tools & Platforms**
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,aws,azure&theme=dark" />
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" title="Photoshop"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>
-
-**Core Concepts**
-
-`OOPS` `DSA` `REST APIs` `MVC` `Software Architecture` `Agile / SDLC` `Database Design` `System  Design`
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><b>Docker</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><b>Postman</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><b>Figma</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><b>Linux</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br/><b>Azure</b></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48"/><br/><b>Photoshop</b></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48"/><br/><b>Nginx</b></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
-
-## 🎧 Now Playing
 
 <div align="center">
 
-<!--
-  🎵 Live "Now Playing" widget — plug in your own Spotify account to make this real.
-  1. Fork: https://github.com/kittinan/spotify-github-profile
-  2. Deploy it (free on Vercel) and connect your Spotify account.
-  3. Replace the src below with the URL it gives you.
-  This keeps the badge honest — no fake "currently listening" data.
--->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=REPLACE_WITH_YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=00C9A7&bar_color_cover=false" width="380" alt="spotify now playing"/>
-
-*(Swap in your own Spotify UID above to make this widget live — see comment in the source.)*
+## ⭐ Core Concepts
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+
+#### 🧩 OOP
+
+</td>
+<td align="center" width="160">
+
+#### 🧠 DSA
+
+</td>
+<td align="center" width="160">
+
+#### 🔌 REST APIs
+
+</td>
+</tr>
+<tr>
+<td align="center" width="160">
+
+#### 🏗️ MVC
+
+</td>
+<td align="center" width="160">
+
+#### 🏛️ Software Architecture
+
+</td>
+<td align="center" width="160">
+
+#### 🔁 Agile / SDLC
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+#### 🗄️ Database Design
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -169,6 +255,13 @@ ask_me_about:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=jaygajjar52&theme=radical&no-frame=true&row=1&column=6" alt="trophy"/>
 </a>
+
+<!--
+  🐍 Optional extra animation: a "contribution snake" that eats your commit graph.
+  To activate, add this GitHub Action to your profile repo:
+  https://github.com/Platane/snk
+  Then embed the generated snake.svg here.
+-->
 
 </div>
 
