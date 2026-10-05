@@ -77,10 +77,10 @@
 <div align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="Jay's trophy stats"/>
 
-<img height='200' alt='total' src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham" />
-<img height='200' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham" />
+<img height='200' alt='total' src="https://github-readme-stats.vercel.app/api?username=Jaygajjar52&show_icons=true&theme=gotham" />
+<img height='200' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaygajjar52&layout=compact&theme=gotham" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaygajjar52&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph">
 </div>
 
 ![divider1](https://raw.githubusercontent.com/jamesleeksc/jamesleeksc/main/assests/images/divider1.png)
@@ -91,13 +91,13 @@
 
 <div align='center'>
   <a href='https://visitcount.itsvg.in' >
-    <img src='https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=5&color=6' height='40' />
+    <img src='https://visitcount.itsvg.in/api?id=Jaygajjar52&icon=5&color=6' height='40' />
   </a>
-  <a href='https://github.com/YOUR_GITHUB_USERNAME' >
-    <img src='https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME.svg?style=flat&logo=castro&label=Follow' height='40' />
+  <a href='https://github.com/Jaygajjar52' >
+    <img src='https://img.shields.io/github/followers/Jaygajjar52.svg?style=flat&logo=castro&label=Follow' height='40' />
   </a>
-  <a href='https://github.com/YOUR_GITHUB_USERNAME?tab=repositories' >
-    <img src='https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
+  <a href='https://github.com/Jaygajjar52?tab=repositories' >
+    <img src='https://img.shields.io/github/stars/Jaygajjar52.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
   </a>
 </div>
 
